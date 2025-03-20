@@ -8,7 +8,6 @@ The key metrics covered in this dashboard are:
 - **Shipment Count**
 <br>
 The dashboard also includes:
-
   - 1. Sales by Country (Bar Chart)
   - 2. Top 10 Sales Persons (Horizontal Bar Chart
 
@@ -39,5 +38,17 @@ Data Processing
 - **Calculated KPIs:**
    - **Computed total boxes shipped and shipment count.**
 
+Data Visualization
+- **Dashboard Creation:**
+   - **Combined multiple worksheets (Sales Country, Top 10 Sales, Sales Summary) into a dashboard.**
+- **Charts Used:**
+   - **Bar Chart for Sales by Country.**
+   - **Horizontal Bar Chart for Top Sales Persons.**
+   - **KPI Text Tiles for Amount, Boxes Shipped, Shipment Count.**
+- **Interactivity:**
+   - **Included filter icons to allow user interaction.**
+- **Design & Layout:**
+   - **Used proper layout with consistent color scheme and spacing.**
+   - **Set to Entire View for better visibility.**
 
 Analysis and create a dashboard report.
