@@ -9,7 +9,7 @@ The key metrics covered in this dashboard are:
 <br>
 The dashboard also includes:
 
-- 1.Sales by Country (Bar Chart)
-- 2.Top 10 Sales Persons (Horizontal Bar Chart)
+  **1. Sales by Country (Bar Chart)**
+  **2. Top 10 Sales Persons (Horizontal Bar Chart)**
 
 Analysis and create a dashboard report.
