@@ -19,4 +19,14 @@ The dashboard also includes:
    - **Created hierarchies if required (e.g., Region → Country).**
    - **Possibly created calculated fields to compute KPIs like Total Amount or Shipment Count.**
 
+Data Cleaning
+- **Null Values Handling:**
+   - **Checked for any null/missing values in fields like Amount, Country, Sales Person and handled them (filtered/cleaned).**
+- **Data Type Consistency:**
+   - **Ensured correct data types (e.g., Amount as currency, Shipment Count as integer).**
+- **Renaming & Formatting:**
+   - **Renamed columns for better readability.**
+   - **Formatted numeric fields properly (₹ symbol for Amount, commas for thousands).**
+
+
 Analysis and create a dashboard report.
