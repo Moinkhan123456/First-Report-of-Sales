@@ -28,5 +28,16 @@ Data Cleaning
    - **Renamed columns for better readability.**
    - **Formatted numeric fields properly (₹ symbol for Amount, commas for thousands).**
 
+Data Processing
+- **Aggregations:**
+   - **Summed up Amount, Boxes Shipped, and Shipment Count.**
+- **Filters & Sorting:**
+   - **Applied filters (e.g., top 10 salespersons).**
+   - **Sorted salespersons based on Amount.**
+- **Grouping:**
+   - **Grouped countries for country-wise sales aggregation.**
+- **Calculated KPIs:**
+   - **Computed total boxes shipped and shipment count.**
+
 
 Analysis and create a dashboard report.
