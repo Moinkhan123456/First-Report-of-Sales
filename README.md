@@ -1,4 +1,4 @@
-# First-Report-of-Sales
+# First-Report-of-Sales (Interative with Tableau)
 
 This Tableau dashboard titled "First Report of Sales" provides a summarized view of sales performance across different countries and top salespersons. 
 The key metrics covered in this dashboard are:
