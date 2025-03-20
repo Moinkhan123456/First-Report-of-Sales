@@ -51,4 +51,11 @@ Data Visualization
    - **Used proper layout with consistent color scheme and spacing.**
    - **Set to Entire View for better visibility.**
 
+ Conclusion
+ <br>
+This project demonstrates end-to-end data analytics skills starting from data import, cleaning, modeling, processing, and finally visualization using Tableau.
+
+Dashboard Interaction <a href="https://github.com/Moinkhan123456/First-Report-of-Sales/blob/main/Screenshot%20(7).png">View Dashboard</a>
+<br>
+
 Analysis and create a dashboard report.
